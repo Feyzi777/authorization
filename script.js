@@ -11,7 +11,7 @@ passwordInput.value = null
 window.open('https://forum.arizona-rp.com/forums/1086/ ');
 } else {
 text.innerHTML = 'Ошибка'
-loginInp3ut.value = null
+loginInput.value = null
 passwordInput.value = null
 }
 }

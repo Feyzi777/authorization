@@ -22,7 +22,8 @@ body {
 
 .main-text {
     margin-top: 180px;
-    width: 195px;
+    text-align: center;
+    font-size: 30px;
     color: rgb(225, 92, 92);
 }
 
